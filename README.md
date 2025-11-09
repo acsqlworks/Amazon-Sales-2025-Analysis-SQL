@@ -2,6 +2,9 @@
 ![Amazon](https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg)
 
 ## Project Overview
+[![Data Source](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com)
+[![SQL](https://img.shields.io/badge/SQL-Server-CC2927?style=flat&logo=microsoft-sql-server)](https://www.microsoft.com/sql-server)
+[![Excel](https://img.shields.io/badge/Excel-Analysis-217346?style=flat&logo=microsoft-excel)](https://www.microsoft.com/excel)
 
 This project analyzes Amazon India's e-commerce sales data for 2025, featuring 15,000 synthetic transactions that simulate real-world purchasing behavior during the Diwali shopping season. Using advanced SQL techniques including CTEs, window functions, and complex aggregations, this analysis provides comprehensive insights into sales performance, customer behavior, payment preferences, delivery metrics, and regional market trends across Indian states.
 
